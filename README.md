@@ -3,3 +3,5 @@
 
 
 Repositório criado durante uma aula ao vivo
+
+Aprendendo a comitar no repositório remoto
